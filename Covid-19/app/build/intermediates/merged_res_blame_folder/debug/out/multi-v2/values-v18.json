@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/media/shabaj/Projects/Covid-19/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/home/shabaj/.gradle/caches/transforms-3/15dd2602c4e6eb7aaffcac23cba3a8af/transformed/appcompat-1.2.0/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

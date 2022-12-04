@@ -1,0 +1,418 @@
+[
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_doctor_prevention.png.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_doctor_prevention.png"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable_ic_live.xml.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/drawable/ic_live.xml"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_doctor.png.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_doctor.png"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable-v24_shabaj_img.jpg.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/drawable-v24/shabaj_img.jpg"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_washing_hands.png.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/build/generated/res/pngs/debug/drawable-hdpi/ic_washing_hands.png"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable_ic_flag.xml.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/drawable/ic_flag.xml"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable_ic_mask.xml.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/drawable/ic_mask.xml"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable_ic_reload.xml.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/drawable/ic_reload.xml"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_bug_fixed.png.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/build/generated/res/pngs/debug/drawable-mdpi/ic_bug_fixed.png"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_doctor.png.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_doctor.png"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/layout_activity_symptoms.xml.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/layout/activity_symptoms.xml"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable_ic_headache.xml.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/drawable/ic_headache.xml"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/layout_activity_home_screen.xml.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/layout/activity_home_screen.xml"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable_shabaj_img.jpg.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/drawable/shabaj_img.jpg"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_doctor_prevention.png.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_doctor_prevention.png"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/layout_activity_prevention.xml.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/layout/activity_prevention.xml"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable_ic_backward.xml.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/drawable/ic_backward.xml"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable_ic_cough.xml.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/drawable/ic_cough.xml"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_bug_fixed.xml.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_bug_fixed.xml"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable-v24_saijal_img.jpg.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/drawable-v24/saijal_img.jpg"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_washing_hands.xml.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_washing_hands.xml"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable_ic_bacteria.xml.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/drawable/ic_bacteria.xml"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable_kashif_sir_img.jpeg.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/drawable/kashif_sir_img.jpeg"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable_ic_joint.xml.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/drawable/ic_joint.xml"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/layout_error_screen.xml.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/layout/error_screen.xml"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable_ic_news.xml.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/drawable/ic_news.xml"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable_search_bg.xml.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/drawable/search_bg.xml"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable_saijal_img.jpg.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/drawable/saijal_img.jpg"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/raw_handwash.json.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/raw/handwash.json"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable_ic_gloves.xml.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/drawable/ic_gloves.xml"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable_ic_fever.xml.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/drawable/ic_fever.xml"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable-v24_sakshi_img.jpg.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/drawable-v24/sakshi_img.jpg"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/layout_about.xml.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/layout/about.xml"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_washing_hands.png.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_washing_hands.png"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_doctor_prevention.png.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/build/generated/res/pngs/debug/drawable-ldpi/ic_doctor_prevention.png"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/layout_activity_report.xml.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/layout/activity_report.xml"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable_ic_newspaper.xml.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/drawable/ic_newspaper.xml"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_doctor.png.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/build/generated/res/pngs/debug/drawable-ldpi/ic_doctor.png"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable_sakshi_img.jpg.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/drawable/sakshi_img.jpg"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_doctor.xml.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_doctor.xml"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable_ic_my_location.xml.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/drawable/ic_my_location.xml"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_bug_fixed.png.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_bug_fixed.png"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable_card_bg.xml.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/drawable/card_bg.xml"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/raw_skeleton.json.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/raw/skeleton.json"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable_ic_soap.xml.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/drawable/ic_soap.xml"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_bug_fixed.png.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_bug_fixed.png"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/layout_country_list_item.xml.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/layout/country_list_item.xml"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable_search_round.xml.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/drawable/search_round.xml"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/layout_selected_country_data.xml.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/layout/selected_country_data.xml"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/layout_activity_country_list.xml.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/layout/activity_country_list.xml"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable_right_curve_bg.xml.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/drawable/right_curve_bg.xml"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_doctor.png.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_doctor.png"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable_ic_close.xml.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/drawable/ic_close.xml"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable_round_box.xml.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/drawable/round_box.xml"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable_splash_bg.xml.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/drawable/splash_bg.xml"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_doctor.png.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/build/generated/res/pngs/debug/drawable-mdpi/ic_doctor.png"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/font_lato_bold.ttf.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/font/lato_bold.ttf"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_washing_hands.png.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/build/generated/res/pngs/debug/drawable-mdpi/ic_washing_hands.png"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_bug_fixed.png.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/build/generated/res/pngs/debug/drawable-ldpi/ic_bug_fixed.png"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/raw_ill.json.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/raw/ill.json"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable_ic_globe.xml.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/drawable/ic_globe.xml"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable_ic_sneeze.xml.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/drawable/ic_sneeze.xml"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_doctor_prevention.png.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_doctor_prevention.png"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable_yellow_curve_bg.xml.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/drawable/yellow_curve_bg.xml"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_washing_hands.png.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_washing_hands.png"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable-v24_kashif_sir_img.jpeg.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/drawable-v24/kashif_sir_img.jpeg"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_doctor_prevention.xml.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_doctor_prevention.xml"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/layout_activity_news.xml.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/layout/activity_news.xml"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable_ic_pie_chart.xml.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/drawable/ic_pie_chart.xml"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/font_lato_regular.ttf.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/font/lato_regular.ttf"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable_ic_tired.xml.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/drawable/ic_tired.xml"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable_ic_trachea.xml.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/drawable/ic_trachea.xml"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/font_lato_italic.ttf.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/font/lato_italic.ttf"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/font_font_family.xml.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/font/font_family.xml"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable-v24_neyaz_sir.png.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/drawable-v24/neyaz_sir.png"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable_ic_next.xml.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/drawable/ic_next.xml"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable_left_curve_bg.xml.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/drawable/left_curve_bg.xml"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/font_lato_light.ttf.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/font/lato_light.ttf"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_doctor_prevention.png.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/build/generated/res/pngs/debug/drawable-hdpi/ic_doctor_prevention.png"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_doctor_prevention.png.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/build/generated/res/pngs/debug/drawable-mdpi/ic_doctor_prevention.png"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable_ic_search.xml.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/drawable/ic_search.xml"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable_neyaz_sir.png.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/drawable/neyaz_sir.png"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_washing_hands.png.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/build/generated/res/pngs/debug/drawable-ldpi/ic_washing_hands.png"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_bug_fixed.png.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/build/generated/res/pngs/debug/drawable-hdpi/ic_bug_fixed.png"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable_ic_sanitizer.xml.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/drawable/ic_sanitizer.xml"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_bug_fixed.png.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_bug_fixed.png"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_doctor.png.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/build/generated/res/pngs/debug/drawable-hdpi/ic_doctor.png"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_washing_hands.png.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_washing_hands.png"
+    },
+    {
+        "merged": "/media/shabaj/Projects/Covid-19/app/build/intermediates/merged_res/debug/layout_news_list_item.xml.flat",
+        "source": "/media/shabaj/Projects/Covid-19/app/src/main/res/layout/news_list_item.xml"
+    }
+]

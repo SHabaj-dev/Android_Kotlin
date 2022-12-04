@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        android:orientation="vertical"
+        tools:context=".AboutActivity">
+    <LinearLayout
+        android:id="@+id/relativeLayout"
+        android:layout_width="match_parent"
+        android:layout_height="?actionBarSize"
+        android:background="@color/colorPrimary"
+        android:padding="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/back"
+            android:foreground="?selectableItemBackground"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:src="@drawable/ic_backward" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/lato_bold"
+            android:text="@string/team_members"
+            android:layout_gravity="center"
+            android:textColor="@color/white"
+            android:layout_marginStart="20dp"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/teacher_info"
+        android:layout_below="@id/relativeLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:id="@+id/project_coordinator"
+            android:layout_width="229dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/card_bg"
+            android:foreground="?attr/selectableItemBackgroundBorderless"
+            android:orientation="vertical"
+            android:layout_margin="10dp"
+            android:padding="20dp"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="75dp">
+
+            <ImageView
+                android:layout_width="160dp"
+                android:layout_height="100dp"
+                android:layout_gravity="center"
+                android:src="@drawable/neyaz_sir" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:fontFamily="@font/lato_bold"
+                android:text="@string/project_coordinator"
+                android:textColor="@color/white"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:fontFamily="@font/lato_regular"
+                android:text="@string/coordinator_name"
+                android:textColor="@color/grey"
+                android:textSize="16sp" />
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/lab_coordinator"
+            android:layout_width="229dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:layout_margin="10dp"
+            android:background="@drawable/card_bg"
+            android:foreground="?attr/selectableItemBackgroundBorderless"
+            android:orientation="vertical"
+            android:padding="20dp"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="75dp">
+
+            <ImageView
+                android:layout_width="160dp"
+                android:layout_height="100dp"
+                android:layout_gravity="center"
+                android:src="@drawable/kashif_sir_img" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:fontFamily="@font/lato_bold"
+                android:text="@string/lab_coordinator"
+                android:textColor="@color/white"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:fontFamily="@font/lato_regular"
+                android:text="@string/lab_coordinator_name"
+                android:textColor="@color/grey"
+                android:textSize="16sp" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/student_member"
+        android:layout_below="@+id/teacher_info"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal">
+        <LinearLayout
+            android:id="@+id/shabaj_profile"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/card_bg"
+            android:foreground="?attr/selectableItemBackgroundBorderless"
+            android:orientation="vertical"
+            android:layout_margin="10dp"
+            android:padding="20dp"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="75dp">
+
+            <ImageView
+                android:layout_width="160dp"
+                android:layout_height="100dp"
+                android:layout_gravity="center"
+                android:src="@drawable/shabaj_img" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:fontFamily="@font/lato_bold"
+                android:text="@string/shabaj_ansari"
+                android:layout_gravity="center"
+                android:textColor="@color/white"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:fontFamily="@font/lato_regular"
+                android:text="@string/bca_3rd_yr"
+                android:textColor="@color/grey"
+                android:layout_gravity="center"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:fontFamily="@font/lato_regular"
+                android:text="@string/shabaj_enroll"
+                android:textColor="@color/grey"
+                android:layout_gravity="center"
+                android:textSize="16sp" />
+
+        </LinearLayout>
+
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_below="@+id/student_member">
+
+        <LinearLayout
+            android:id="@+id/sakshi_shukla"
+            android:layout_width="229dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/card_bg"
+            android:foreground="?attr/selectableItemBackgroundBorderless"
+            android:orientation="vertical"
+            android:layout_margin="10dp"
+            android:padding="20dp"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="75dp">
+
+            <ImageView
+                android:layout_width="160dp"
+                android:layout_height="100dp"
+                android:layout_gravity="center"
+                android:src="@drawable/sakshi_img" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:fontFamily="@font/lato_bold"
+                android:text="@string/sakshi_shukla"
+                android:textColor="@color/white"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:fontFamily="@font/lato_regular"
+                android:text="@string/bca_3rd_yr"
+                android:textColor="@color/grey"
+                android:textSize="16sp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:fontFamily="@font/lato_regular"
+                android:text="@string/sakshi_enroll"
+                android:textColor="@color/grey"
+                android:textSize="16sp" />
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/student_member2"
+            android:layout_width="229dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:layout_margin="10dp"
+            android:background="@drawable/card_bg"
+            android:foreground="?attr/selectableItemBackgroundBorderless"
+            android:orientation="vertical"
+            android:padding="20dp"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="75dp">
+
+            <ImageView
+                android:layout_width="160dp"
+                android:layout_height="100dp"
+                android:layout_gravity="center"
+                android:src="@drawable/saijal_img" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:fontFamily="@font/lato_bold"
+                android:text="@string/saijal_gupta"
+                android:textColor="@color/white"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:fontFamily="@font/lato_regular"
+                android:text="@string/bca_3rd_yr"
+                android:textColor="@color/grey"
+                android:textSize="16sp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:fontFamily="@font/lato_regular"
+                android:text="@string/saijal_enroll"
+                android:textColor="@color/grey"
+                android:textSize="16sp" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    </RelativeLayout>
+</androidx.core.widget.NestedScrollView>

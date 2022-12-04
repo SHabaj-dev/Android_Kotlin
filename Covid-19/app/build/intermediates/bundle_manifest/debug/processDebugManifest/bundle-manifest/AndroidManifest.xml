@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.shabaj.covid_19"
+    android:versionCode="1"
+    android:versionName="1.1" >
+
+    <uses-sdk
+        android:minSdkVersion="22"
+        android:targetSdkVersion="29" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.shabaj.covid_19.newsScreen.NewsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.shabaj.covid_19.preventionScreen.PreventionActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.shabaj.covid_19.symptomsScreen.SymptomsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.shabaj.covid_19.reportScreen.ReportActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.shabaj.covid_19.homeScreen.HomeScreenActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/SplashTheme" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.shabaj.covid_19.countryList.CountryListActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustNothing" >
+        </activity>
+
+        <provider
+            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+            android:authorities="com.shabaj.covid_19.lifecycle-process"
+            android:exported="false"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>
