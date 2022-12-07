@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/media/shabaj/Projects/Covid-19/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h480dp-land-v13/values-h480dp-land-v13.xml",
+            "outputFile": "/media/shabaj/Placement Hussle/Android using Kotlin/Covid-19/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h480dp-land-v13/values-h480dp-land-v13.xml",
             "map": [
                 {
                     "source": "/home/shabaj/.gradle/caches/transforms-3/6245d4f05c45af8bb9bf19b63b20b48e/transformed/material-1.5.0-alpha02/res/values-h480dp-land-v13/values-h480dp-land-v13.xml",

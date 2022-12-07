@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="shabaj_ansari">Shabaj Ansari</string>
+    <string name="avatar">Avatar</string>
+    <string name="bio">
+        Hi There! Thank-you For Checking My Profile
+        I\'m Shabaj Ansari Currently Learning Android Development Using Kotlin
+        which will help me enhance my skills
+        for application development I\'ve done Android Projects in
+        java As well But is time to learn kotlin as kotlin is official      language for android development
+        Coming to my personal life I\'m Currently pursuing Master of Computer Application From
+        Galgotias University\, Greater Noida\, Uttar Pradesh. I\'ve complete my Bachelors From
+        Integral University\, Lucknow\, Uttar Pradesh\, India</string>
+</resources>

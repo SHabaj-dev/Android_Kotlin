@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/media/shabaj/Projects/Covid-19/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "outputFile": "/media/shabaj/Placement Hussle/Android using Kotlin/Covid-19/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
             "map": [
                 {
                     "source": "/home/shabaj/.gradle/caches/transforms-3/ed2f5fd2ec5a4e1384ee336215254109/transformed/core-1.5.0/res/values-v16/values-v16.xml",

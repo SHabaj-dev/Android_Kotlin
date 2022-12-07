@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@color/white"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textViewName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/small_padding"
+        android:fontFamily="@font/roboto_bold"
+        android:padding="@dimen/large_padding"
+        android:text="@string/shabaj_ansari"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="@dimen/text_heading_size"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/ivProfilePic"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:contentDescription="@string/avatar"
+        android:src="@drawable/itachi" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:background="@color/white"
+        android:layout_margin="10dp">
+
+        <TextView
+            android:id="@+id/bio"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/bio"
+            android:textSize="25sp"
+            android:textColor="@color/black"/>
+
+
+    </ScrollView>
+
+
+</LinearLayout>
