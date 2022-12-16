@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="example_text">Example Text</string>
+    <string name="one">1</string>
+    <string name="point">.</string>
+</resources>
