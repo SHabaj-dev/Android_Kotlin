@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TextViewsAndButtons</string>
+    <string name="hello_from_android">Hello From Android</string>
+    <string name="enter_your_name">Enter your Name</string>
+    <string name="submit">Submit</string>
+    <string name="avail_offer">Avail Offer</string>
+    <string name="offer_page">Offer Page</string>
+</resources>
