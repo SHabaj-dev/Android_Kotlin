@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Audio In Android</string>
+    <string name="_0_sec">0 sec</string>
 </resources>

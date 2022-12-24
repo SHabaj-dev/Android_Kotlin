@@ -28,18 +28,22 @@ class ResultActivity : AppCompatActivity() {
         var height = intent.getStringExtra("HEIGHT")
         var weight = intent.getStringExtra("WEIGHT")
 
+        Log.i("HShabaj", height.toString())
+        Log.i("WShabaj", weight.toString())
+
         val weightInFloat = weight.toString().toDouble()
         val heightInFloat = height.toString().toDouble() * 100.00
 
-        val bmi =  weightInFloat / (Math.pow(heightInFloat, 2.0))
+        val bmi =  weightInFloat / (heightInFloat * heightInFloat)
         displayResult(bmi.toFloat())
+//        Log.i("BMI_SHABAJ", bmi.toString())
 //        var bmi = intent.getStringExtra("BMI_RESULT")
 //        bmi = bmi.toString()
 ////        Log.i("SHABAJ", bmi.toString())
-//        val bmiResult = "%.2f".format(bmi).toFloat()
-////        Log.i("SHABAJ", bmiResult.toString())
+        val bmiResult = String.format("%.2f", bmi).toFloat()
+//        Log.i("SHABAJ", bmiResult.toString())
 //
-//        displayResult(bmiResult)
+        displayResult(bmiResult)
 
     }
 

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="search_notes">Search Notes</string>
+    <string name="title">Title</string>
+    <string name="notes">Notes</string>
+    <string name="time">Time</string>
+    <string name="start_typing_here">Start Typing Here</string>
+    <string name="delete">Delete</string>
+</resources>

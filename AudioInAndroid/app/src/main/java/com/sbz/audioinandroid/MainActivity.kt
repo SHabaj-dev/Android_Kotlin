@@ -39,14 +39,16 @@ class MainActivity : AppCompatActivity() {
 
         binding.btnStop.setOnClickListener {
 
+            binding.tvCurrentPos.text = "0 secs"
+            var duration = (mediaPlayer!!.duration / 1000)
+            binding.tvMaxDuartion.text = duration.toString()
             mediaPlayer?.stop()
             mediaPlayer?.reset()
             mediaPlayer?.release()
             mediaPlayer = null
             handler.removeCallbacks(runnable)
             binding.seekBar.progress = 0
-//            binding.tvCurrentPos.text = "0 secs"
-//            binding.tvMaxDuartion.text = (mediaPlayer!!.duration / 1000).toString()
+
         }
 
     }
