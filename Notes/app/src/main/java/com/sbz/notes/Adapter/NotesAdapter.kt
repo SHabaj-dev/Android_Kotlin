@@ -38,7 +38,9 @@ class NotesAdapter(private val context: Context, val listener: NotesItemClickedL
                 randomColorGenerator()
             )
         )
-//        holder.notes_layout.setCardBackgroundColor(holder.itemView.resources.getColor(randomColorGenerator(), null))
+//        holder.notes_layout.setCardBackgroundColor(holder.itemView.resources.
+//              getColor(randomColorGenerator(), null)
+//              )
 
         holder.notes_layout.setOnClickListener {
             listener.onItemClicked(notesList[holder.adapterPosition])
