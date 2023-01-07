@@ -29,4 +29,7 @@ interface StudentDAO {
     //delete all the data inside the table
     @Query("DELETE FROM student_table")
     suspend fun deleteAll()
+
+    @Query("DELETE FROM student_table WHERE roll_number = :roll_num")
+    suspend fun deleteRollNo(roll_num: Int)
 }

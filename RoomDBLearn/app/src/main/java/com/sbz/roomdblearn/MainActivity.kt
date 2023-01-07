@@ -31,6 +31,10 @@ class MainActivity : AppCompatActivity() {
         binding.btnSearch.setOnClickListener {
             readData()
         }
+
+        binding.btnDelete.setOnClickListener {
+            deleteData()
+        }
     }
 
 
@@ -90,10 +94,28 @@ class MainActivity : AppCompatActivity() {
     }
 
     private suspend fun displayData(student: Student) {
-        var outputData = "${student.roll_number}  ${student.student_name}  ${student.course}"
+        val outputData = "${student.roll_number}  ${student.student_name}  ${student.course}"
         withContext(Dispatchers.Main) {
             binding.tvDisplayData.text = outputData
         }
         binding.tvDisplayData.visibility = View.VISIBLE
     }
+
+    private fun deleteData() {
+        val rollNum = binding.etSearchText.text.toString()
+        if (rollNum.isNotEmpty()) {
+
+            GlobalScope.launch {
+                appDB.studentDao().deleteRollNo(rollNum.toInt())
+            }
+            Toast.makeText(
+                this@MainActivity,
+                "${rollNum} deletion successful",
+                Toast.LENGTH_SHORT
+            ).show()
+
+            binding.etSearchText.text.clear()
+        }
+    }
+
 }
