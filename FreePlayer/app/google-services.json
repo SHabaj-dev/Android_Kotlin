@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "274621234688",
+    "project_id": "free-player-bd00b",
+    "storage_bucket": "free-player-bd00b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274621234688:android:235fb5bfaf89a2c443a2e5",
+        "android_client_info": {
+          "package_name": "com.sbz.freeplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274621234688-bp3d30pcila5nf107nhv7usc7ga3nmc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwcdqEg5kIBaxFuB9X2KIqgag-RO-HCek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274621234688-bp3d30pcila5nf107nhv7usc7ga3nmc5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

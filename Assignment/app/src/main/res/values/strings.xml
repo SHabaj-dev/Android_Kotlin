@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="device_imei_no">Device IMEI No. :</string>
+    <string name="connection_status">Connection Status :</string>
+    <string name="charging_status">Charging Status :</string>
+    <string name="battery_charge">Battery Charge :</string>
+    <string name="your_location">Your Location :</string>
+    <string name="time_stamp">Time Stamp :</string>
+    <string name="_1234567890">1234567890</string>
+    <string name="internet_con_status_string">Connected</string>
+    <string name="charging">Charging</string>
+    <string name="current_location">Delhi</string>
+    <string name="_100">100</string>
+    <string name="time_stamp_format">00:00</string>
+</resources>
